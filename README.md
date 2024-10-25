@@ -59,8 +59,8 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0). Se
 
 ## Acknowledgments
 
-BeautifulSoup for HTML parsing.
-PyPDF2 for PDF manipulation.
+- BeautifulSoup for HTML parsing.
+- PyPDF2 for PDF manipulation.
 
 
 
