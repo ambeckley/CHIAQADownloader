@@ -41,8 +41,8 @@ python scraper.py
 
 This script will create a directory named chiafiles and download all PDF files into it from the following pages:
 
-[CHIA Data User Workgroup Information](https://www.chiamass.gov/chia-data-user-workgroup-information/)
-[Previous CHIA Data User Workgroup Presentations](https://www.chiamass.gov/previous-chia-data-user-workgroup-presentations/)
+- [CHIA Data User Workgroup Information](https://www.chiamass.gov/chia-data-user-workgroup-information/)
+- [Previous CHIA Data User Workgroup Presentations](https://www.chiamass.gov/previous-chia-data-user-workgroup-presentations/)
 
 ## Step 2: Merge PDFs
 After downloading the PDFs, run the mergepdf.py script to merge them into a single PDF:
